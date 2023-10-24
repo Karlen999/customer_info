@@ -18,7 +18,6 @@ Endpoint: /api/customers/{customerId}/contacts
 Method: POST
 Body:
 json
-Copy code
 {
   "type": "EMAIL",
   "value": "john.doe@example.com"
